@@ -18,3 +18,5 @@ Labels used are:
 ### Added
 - Introduction to git.
 - Introduction to markdown.
+- HTML & CSS
+- JavaScript
